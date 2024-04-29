@@ -1,1 +1,1 @@
-# AK3_WS
+# AK3 Workshop 1
